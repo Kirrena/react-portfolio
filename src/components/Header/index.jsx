@@ -1,11 +1,12 @@
 import React from 'react';
-import NavBar from './nav/Navbar';
 
 function Header() {
     return (
-           <NavBar/>
+           
+           <div>Once upon a time...I started coding</div>
 
-    )
+
+    );
     }
 
 export default Header;    
